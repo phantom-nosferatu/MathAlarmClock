@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#B42895</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_time">#000000</color>
+    <color name="card_color_desc">#807C7C</color>
+    <color name="purple_switch_active">#B42895</color>
+    <color name="purple_switch_nonactive">#B42895</color>
+    <color name="purple_switch_trackTint">#DDADD3</color>
+    <color name="bg_alarm_list">#C4C4C4</color>
+    <color name="green">#6ff06c</color>
+    <color name="alarm_noactive">#3F51B5</color>
+    <color name="desc_noactive">#e0e0e0</color>
+</resources>

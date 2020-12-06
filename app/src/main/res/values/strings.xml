@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alarm_puzzle</string>
+    <string name="card_time">7:30</string>
+    <string name="card_desc">Встать утром</string>
+    <string name="tv_empty_list">Установите ваш первый будильник</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_desc">Описание</string>
+    <string name="menu_edit">Изменить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="tv_faq">Чтобы отключить будильник решите пример:</string>
+    <string name="tv_random1">Random1</string>
+    <string name="tv_random2">Random 2</string>
+    <string name="et_result">Ответ</string>
+    <string name="image_alarm_clock">image alarm clock</string>
+    <string name="fab_desc">fab to add</string>
+    <string name="btn_stop_alarm">Выключить</string>
+    <string name="plus">" + "</string>
+</resources>
